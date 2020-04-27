@@ -12,10 +12,10 @@ msgid "Download with FDM"
 msgstr "Unduh dengan FDM"
 
 msgid "Download selected with FDM"
-msgstr "Unduh pilihan dengan FDM"
+msgstr "Unduh pilihan ini dengan FDM"
 
 msgid "Download video with FDM"
-msgstr "Unduh video dengan FDM"
+msgstr "Unduh tayangan ini dengan FDM"
 
 msgid "Error: 0x%x. Failed to transfer downloads to FDM."
 msgstr "Kesalahan: 0x%x. Gagal untuk memindahkan unduhan ke FDM."
@@ -25,7 +25,7 @@ msgstr "Tidak ada video flash yang ditemukan. Coba muat ulang laman ini."
 
 msgctxt "Download|"
 msgid "Specified folder path is relative, full path is %1"
-msgstr ""
+msgstr "Lokasi folder tersebut "
 
 msgctxt "Download|"
 msgid "%1 B"
@@ -2332,7 +2332,7 @@ msgstr "Memulai penyemaian"
 
 msgctxt "TorrentDownload|"
 msgid "Unknown error occurred"
-msgstr "Terjadi kesalahan tak diketahui"
+msgstr "Terjadi kesalahan yang tidak diketahui"
 
 msgctxt "TorrentDownload|"
 msgid "Error occurred: %1"
@@ -2348,7 +2348,7 @@ msgstr "tidak terbatas"
 
 msgctxt "TorrentDownload|"
 msgid "Download speed is unlimited"
-msgstr "Kecepatan unduh tidak terbatas"
+msgstr "Kecepatan unduh tidak dibatasi"
 
 msgctxt "TorrentDownload|"
 msgid "Download speed is limited to %1/s"
@@ -2356,7 +2356,7 @@ msgstr "Kecepatan unduh dibatasi sebesar %1/d"
 
 msgctxt "TorrentDownload|"
 msgid "Upload speed is unlimited"
-msgstr "Kecepatan unggah tidak terbatas"
+msgstr "Kecepatan unggah tidak dibatasi"
 
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
@@ -2428,11 +2428,11 @@ msgstr "Pemindahan berkas gagal"
 
 msgctxt "TorrentDownload|"
 msgid "Files moving declined: %1"
-msgstr "Penolakan pemindahan berkas: %1"
+msgstr "Pemindahan berkas ditolak: %1"
 
 msgctxt "TorrentDownload|"
 msgid "Moving file declined: %1"
-msgstr "Pemindahan berkas ditolak: %1"
+msgstr "Berkas yang menolak pemindahan: %1"
 
 msgctxt "TorrentDownload|"
 msgid "Moved successfully"
@@ -2452,11 +2452,11 @@ msgstr "Pemindahan berkas gagal: %1"
 
 msgctxt "TorrentDownload|"
 msgid "Files moving cancelled"
-msgstr "Pemindahan berkas dibatalkan"
+msgstr "Proses pemindahan berkas dibatalkan"
 
 msgctxt "TorrentDownload|"
 msgid "Moving file cancelled"
-msgstr "Proses pemindahan berkas dibatalkan"
+msgstr "Pemindahan berkas dibatalkan"
 
 msgctxt "TorrentDownload|"
 msgid "Unexpected error"
@@ -2490,7 +2490,7 @@ msgstr "Keluar"
 
 msgctxt "UIHelper|"
 msgid "About %1"
-msgstr "Mengenai %1"
+msgstr "Tentang %1"
 
 msgctxt "UIHelper|"
 msgid "Version %1 (%2)"
@@ -2506,7 +2506,7 @@ msgstr "Tampilkan melalui Finder"
 
 msgctxt "UIHelper|"
 msgid "Show in folder"
-msgstr "Tampilkan dalam map berkas"
+msgstr "Tampilkan dalam folder"
 
 msgctxt "UIHelper|"
 msgid "Show info"
@@ -2582,7 +2582,7 @@ msgstr "Salin tautan"
 
 msgctxt "UIHelper|"
 msgid "See on YouTube"
-msgstr ""
+msgstr "Sampai Jumpa di Youtube"
 
 msgctxt "UIHelper|"
 msgid "Add tag"
@@ -2594,15 +2594,15 @@ msgstr "Integritas berkas"
 
 msgctxt "UIHelper|"
 msgid "Schedule"
-msgstr "Jadwal"
+msgstr "Penjadwalan"
 
 msgctxt "UIHelper|"
 msgid "Change URL"
-msgstr "Ubah URL"
+msgstr "Ubah Tautan"
 
 msgctxt "UIHelper|"
 msgid "High priority"
-msgstr "Prioritas tinggi"
+msgstr "Prioritas Tinggi"
 
 msgctxt "UIHelper|"
 msgid "Normal priority"
@@ -2610,7 +2610,7 @@ msgstr "Prioritas Normal"
 
 msgctxt "UIHelper|"
 msgid "Low priority"
-msgstr "Prioritas rendah"
+msgstr "Prioritas Rendah"
 
 msgctxt "UIHelper|"
 msgid "Skip"
@@ -2658,7 +2658,7 @@ msgstr "%1 M"
 
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
-msgstr "Berkas dinyatakan hilang"
+msgstr "Berkas hilang"
 
 msgctxt "YoutubeDownload|"
 msgid "Files moved successfully"
@@ -2670,7 +2670,7 @@ msgstr "Memindahkan ke %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Merging failed"
-msgstr "Proses penyatuan gagal"
+msgstr "Proses penyatuan gagal dilakukan"
 
 msgctxt "YoutubeDownload|"
 msgid "Merging media streams"
@@ -2682,22 +2682,22 @@ msgstr "Mengalihkan"
 
 msgctxt "YoutubeDownload|"
 msgid "Handling redirect"
-msgstr "Menangani pengalihan"
+msgstr "Sedang menangani pengalihan"
 
 msgctxt "YoutubeDownload|"
 msgid "AudioStream: %1"
-msgstr "AliranSuara: %1"
+msgstr "Aliran Suara: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "VideoStream: %1"
-msgstr "AliranTayangan: %1"
+msgstr "Aliran Tayangan: %1"
 
 
 
 
 msgctxt "YoutubeDownload|"
 msgid "Parsing page"
-msgstr ""
+msgstr "Halaman sedang diurai"
 
 msgctxt "YoutubeDownload|"
 msgid "Page is parsed"
@@ -2705,7 +2705,7 @@ msgstr "Halaman berhasil diurai"
 
 msgctxt "YoutubeDownload|"
 msgid "Can't find video for this quality"
-msgstr "Tidak dapat menemukan tayangan dengan kualitas ini"
+msgstr "Tidak dapat menemukan tayangan dengan kualitas yang diinginkan"
 
 msgctxt "YoutubeDownload|"
 msgid "Parsing failure: %1"
@@ -2729,7 +2729,7 @@ msgstr ", kecepatan rata-rata: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "File is renamed to %1"
-msgstr "Berkas berubah nama menjadi %1"
+msgstr "Berkas diubah namanya menjadi %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Moving failed: %1"
